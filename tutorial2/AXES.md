@@ -4,7 +4,8 @@
 
 //Question 2: List of all running modules in head node '
 
-![Screenshot 2025-04-07 094934](https://github.com/user-attachments/assets/e09e5da9-9cbb-422f-8865-1ea43f41ffed)
+![image](https://github.com/user-attachments/assets/c7607b2d-37bb-4e06-9321-2fe9f15d75fb)
+
 
 
 
