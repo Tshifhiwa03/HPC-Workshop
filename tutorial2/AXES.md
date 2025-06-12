@@ -1,7 +1,7 @@
 # AXES - Tutorial 3: Basic Linux Commands
 
 ## SSH service on the head node and all running services
-###**Command:** *systemctl status ssh and systemctl list-units --type=service --state=running*
+### **Command:** *systemctl status ssh and systemctl list-units --type=service --state=running*
 ![alt](screenshots/1_and_2.png)
 ---
 ## SSH processes
