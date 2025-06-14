@@ -17,7 +17,7 @@ void welcome_message()
 // get group name
 void get_name(char* name)
 {
-    printf("Enter group name : ");
+    printf("Enter group name :DCspearsv2 ");
     gets(name);
 }
 
